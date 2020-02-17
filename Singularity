@@ -3,11 +3,11 @@ From: fbcotter/docker-tensorflow-opencv:gpu
 
 %files
   #/usr/bin/nvidia-smi
-  /usr/bin/nvidia-debugdump
-  /usr/bin/nvidia-persistenced
-  /usr/bin/nvidia-cuda-mps-control
-  /usr/bin/nvidia-cuda-mps-server
-  /etc/localtime 
+  #/usr/bin/nvidia-debugdump
+  #/usr/bin/nvidia-persistenced
+  #/usr/bin/nvidia-cuda-mps-control
+  #/usr/bin/nvidia-cuda-mps-server
+  #/etc/localtime 
   
 
 %post
