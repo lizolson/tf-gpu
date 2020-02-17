@@ -26,6 +26,6 @@ From: fbcotter/docker-tensorflow-opencv:gpu
   touch /usr/bin/nvidia-persistenced
   touch /usr/bin/nvidia-cuda-mps-control
   touch /usr/bin/nvidia-cuda-mps-server
-  #touch /etc/localtime 
+  ##touch /etc/localtime 
 
 
