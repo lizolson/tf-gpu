@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: tensorflow/tensorflow:latest-devel-gpu-py3
+From: fbcotter/docker-tensorflow-opencv:gpu
 
 %files
   /usr/bin/nvidia-smi
